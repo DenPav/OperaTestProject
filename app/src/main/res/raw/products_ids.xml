@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+
+    <view type = "ids">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+
+    </view>
+
+    <view type = "card3">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+
+    </view>
+
+</page>

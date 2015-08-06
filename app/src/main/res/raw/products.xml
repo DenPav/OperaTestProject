@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product_list>
+    <product id="1">
+        <title>Сверхъяркий фонарик</title>
+        <icon>https://lh6.ggpht.com/POKqqdaXjDqk-84U-3PjIRip78I_As54FGYMFKVu-T3t0OxuXdV7oslBIJjpXCEkQA8n=w300-rw</icon>
+        <screenshots>
+            <image>https://lh3.ggpht.com/UHE-g47boS9oGrOdc9LBBvnjdRSwnsvW4a_u_3nYyq14VI0nqaMsn-Fu_2gD7pZgOg=h900-rw</image>
+            <image>https://lh6.ggpht.com/CUsV3J7EyuZ3ru_Ho-jH6CC8w9G8s5TAqOAhPn-i7cLEQLE9MZWHshRoA-ry8IKAYw=h900-rw</image>
+            <image>https://lh6.ggpht.com/wHvpFvayqSpDjkTTOZbOUfDt1qc18ox5_knRX9rgD12XX4WfhKlvp5yCLZ3RtbXnNrE=h900-rw</image>
+            <image>https://lh3.ggpht.com/0hwPGKS1UpEqUzhpt7W9LbSJs1wVPraPQuOuzLqAHGXOlbtggd691QxiXa6HukkQoFs=h900-rw</image>
+        </screenshots>
+        <short_description>Фонарик мини мгновенно превращает телефон в РЕАЛЬНО самый яркий фонарик!</short_description>
+        <description>Функции:
+            - Самый яркий из имеющихся фонариков - гарантируем! 
+            - Удобство - включение/выключение света как у настоящего фонарика 
+            - Поддержка стробоскопа/режима мерцания - регулируемая частота мерцаний 
+            - Потрясающая графика - это самый красивый фонарик, который может попасть вам в руки!</description>
+
+    </product>
+
+    <product id="2">
+        <title>Клавиатура Ginger</title>
+        <icon>https://lh3.googleusercontent.com/nEpmo2uNONVctkm9f4ZOPOoppb3QqW2rEw5UGPWtc0BOTC-87lsjbCNQI_n4zdhYcwA=w300-rw</icon>
+        <screenshots>
+            <image>https://lh3.googleusercontent.com/0_NOjQhEbPGCgQuo6vC-KjGY4Ab6RbFZ1yOopHKM6JNxDQbW4n0HJdIJyOgH4wDLL-0=h900-rw</image>
+            <image>https://lh3.googleusercontent.com/rpz_oORgU8pVZbSeboidrnXsdaiRYpzEZItar7D-_e9e8-qBdFehs59MYWvhGSoQnwQ3=h900-rw</image>
+            <image>https://lh3.googleusercontent.com/seK1jpk70fmDz1J0OwaR7wJMY7M0mMzxkuEqBzD7jUg-2-Ngv6VOQoSF9fI2NJ87rvM=h900-rw</image>
+            <image>https://lh3.googleusercontent.com/LJFhijM1SrpALV1WKSMiCbU_8PISZ7Udv7LmWoD7ic_uW87ZmtaL6K0SUv3-7qryAy4=h900-rw</image>
+        </screenshots>
+        <short_description>Лучшая клавиатура из имеющихся на рынке теперь доступна и на русском языке!</short_description>
+        <description>Ginger позволяет пользователям быстро набирать граматически и лексически выверенные сообщения. Клавиатура Ginger просто поразительно умна и делает набор текста веселым занятием!</description>
+
+    </product>
+
+    <product id="3">
+        <title>Jelly Jump</title>
+        <icon>https://lh5.ggpht.com/X1PI7PnhJnGXGV8gXGVJyFzM31wsnuzmvJESgS9Nj70dhQziYpCsM3M5rozAykLpglTP=w300-rw</icon>
+        <screenshots>
+            <image>https://lh3.ggpht.com/k0AseamDORFvnX7C0U8J3_lvko4uuluxSDV3_0TNfHN8ix7URhb71QYKQFL4LYk0XdJR=h900-rw</image>
+            <image>https://lh4.ggpht.com/FZr1ctwofyxrk7qooupcZZvhzcfRuAyc8fx8gxNnMfMTdxhRsNDTQ5TT5AioNt-yOV0=h900-rw</image>
+            <image>https://lh5.ggpht.com/lH3t5daHKBG0FgxnUwLG0nyY6cC5RfHxL_gRnOoFZKM695T6QiKnPDgkBMSiB6PMXwo5=h900-rw</image>
+            <image>https://lh6.ggpht.com/YCTTKvjjkSPEhOhCVtEFj8b8zD3WrH_CWrAqkUrW-yDVL6DkprxOd4KHqR6x7EZLLAg=h900-rw</image>
+        </screenshots>
+        <short_description>Маленькие желешки никогда ещё не нуждались в тебе так сильно! Они тонут, снова и снова. И только ты можешь помочь им!</short_description>
+        <description>Прыгай выше, выживай дольше и никогда не сдавайся! Собирай капельки и создавай из них новые желешки. Бросай вызов своим друзьям!</description>
+
+    </product>
+
+    <product id="4">
+        <title>Эпоха Спарты</title>
+        <icon>https://lh3.googleusercontent.com/XMKtX1pCPcRbYRYNHBEybxgSE-2vAkFv15DyN_Q_8Wm_lEA6U4n0z9eceC4_UISKBbM9=w300-rw</icon>
+        <screenshots>
+            <image>https://lh6.ggpht.com/Q1CqudFnnHGBqLiONnPaJCVOVV3pTrrTYGc6wYI8WYNJT7mRLz2CyuJ8HghF78HJ2IE=h310-rw</image>
+            <image>https://lh3.ggpht.com/ANjOfKs64PwqLAjN0So0pXUA7otJHy6IUolw_uk-_dFy55FIQT6_5MBDHHyEP-EnA1E=h900-rw</image>
+            <image>https://lh4.ggpht.com/Dp79R2ZHaCcfrurA1ryLwxfID3MXIaUbzuNeAmnB-QXfSdGM3QYXT2Es27giv6CUP5o=h900-rw</image>
+            <image>https://lh6.ggpht.com/AIJbpTHJVqerUYBkWhMXcm7ZuFiqPgIzMio3_GtTmkY_JMIKfk6qAKY0a6FBZyx-2_-F=h900-rw</image>
+        </screenshots>
+        <short_description>Объединив силы людей и богов, избавьте Древнюю Грецию от персидского ига!</short_description>
+        <description>ступайте в бой - вас зовет глобальная стратегия с уникальной боевой системой и тысячами игроков, которые могут стать как вашими заклятыми врагами, так и ближайшими союзниками. Очередная война? Нет. ЭТО... ЭПОХА... СПАРТЫ!!!</description>
+
+    </product>
+
+    <product id="5">
+        <title>Гадкий Я</title>
+        <icon>https://lh3.googleusercontent.com/uzfSYFAWHny1yw3sXcDyjnqZfUeOTiY3yAHhBD33xH7rj3Swz1XYYXhfkrZVHAOsf6U=w300-rw</icon>
+        <screenshots>
+            <image>https://lh3.googleusercontent.com/bf1UthQFmm0Ok6wXiVQJMlZKkdagFtTXZDvianvQSwOaHEFkx6AKCI-nyQXZT1CHhVdj=h900-rw</image>
+            <image>https://lh3.googleusercontent.com/P3-OwdiWoMHG8BNXZ4srZklyhoDVQDN4U1bBAf8tIU1UtFMF4jKfRsYgwqxgQmSjxyE=h900-rw</image>
+            <image>https://lh3.googleusercontent.com/pepiqsyXxulYiYzY4OuDg4AdDBYA1ZpEr02xU3U3Mv_ZR4HBLGsMHpM5rw0KUO0hBYs=h900-rw</image>
+            <image>https://lh4.ggpht.com/MQZx80iHmep7i_MLaP88SHyGRGH0GX_PbMmzdbShHQKA1Hnhy9ZvQkYwASBqBiDStjl3=h900-rw</image>
+        </screenshots>
+        <short_description>Гадкий Я: Minion Rush сверкает еще более гадкими красками! </short_description>
+        <description>ВСЕ ЛУЧШЕЕ - ДЛЯ ФАНАТОВ “ГАДКИЙ Я’’ Дурачьтесь вместе с миньонами! Сотни заданий потребуют от вас невероятной подлости! Бегите по запомнившимся по мультфильму “Гадкий Я” местам: Лаборатория Грю, Жилмассив Грю, Логово Эль-Мачо, Пляж Миньонов, Дуракаваляндия и другим! </description>
+
+    </product>
+
+    <product id="6">
+        <title>LEGO STAR WARS</title>
+        <icon>https://lh5.ggpht.com/UuVLVS57rHrMw-qvqOuaPMzhQT4FB07_86-J4fYuxY1B0JXO-p6X1iBsZbfeO5C2yy4=w300-rw</icon>
+        <screenshots>
+            <image>https://lh5.ggpht.com/kLzOXEw_6-1rU-RWmGA2kZ4YUx5GFUJ7v5unaVksj_rNA1nJdxEyOSHAEeMpDdEaXKk=h900-rw</image>
+            <image>https://lh6.ggpht.com/cJYtZN_eQDnsw5UOwcS374moZkKxCG4NYwjbIutGdpR1tiAK0jDfR-fjUYgNV9GU=h900-rw</image>
+            <image>https://lh3.ggpht.com/MCl0vCXdLomFOLBGr-fnn1nomZRANle3WbtZdyzblCfU1L92ILCyuROks_oEGBDEgg=h900-rw</image>
+            <image>https://lh5.ggpht.com/LkeE1ulpYS4KmlUsWfAzC5O8pvB0rMtYTJRnewfcEeh1qcXLIoYLEurpGEjBVkTYqavz=h900-rw</image>
+        </screenshots>
+        <short_description>БОЛЬШОЕ ОБНОВЛЕНИЕ: ДВЕ НОВЫЕ ПЛАНЕТЫ ПОЛНЫЕ ЭКШЕНА, ЭПИЧЕСКИХ КОСМИЧЕСКИХ СРАЖЕНИЙ И ПРОЧЕГО</short_description>
+        <description>Строй, создавай и управляй своими любимыми персонажами и транспортными средствами для уничтожения твоих врагов, решай головоломки и проходи испытания в мире вселенной LEGO Star Wars</description>
+
+    </product>
+
+    <product id="7">
+        <title>MARVEL Future Fight</title>
+        <icon>https://lh3.googleusercontent.com/K4dPfvTYIGmXdwftx5jLc7t5eDmf9kcy1B8ublocSTDqOuCZ89bXgMxB5WVFblxV3Ew=w300-rw</icon>
+        <screenshots>
+            <image>https://lh3.googleusercontent.com/A4ShbqFjayCQq63P2ckZoWIgr9gh2WMzr1RDrFibfoVl-6cWCKbTaIiw9I1MLAKTVA=h310-rw</image>
+            <image>https://lh3.googleusercontent.com/UdQavt8uKFrJ1GopuFLk4nMDZx5ZOk0kfNYITGgCDgkMnbcv4TgAnlwOcL3812as6Bo=h310-rw</image>
+            <image>https://lh3.googleusercontent.com/QMKHqiBCr2NF6khw9h7Ra6AO4bcTvUpRadj5XezCZON0Oq2to78ez-7SqtMHk21Fb184=h900-rw</image>
+            <image>https://lh3.googleusercontent.com/WxZ9XXHFkbI8HK3iSTWtyk00a6TM6m7XrWGMKfjBZW9RWjZhFaMKMqHvvcwPnZNvheOV=h900-rw</image>
+        </screenshots>
+        <short_description>Мстители... Человек-Паук... Стражи Галактики! Вы можете собирать величайших героев вселенной Marvel для участия в грандиозной битве, которая решит судьбу всех реальностей, в игре MARVEL Future Fight!</short_description>
+        <description>Директор ЩИТа Ник Фьюри отправил из будущего жуткое послание: множество измерений мультивселенной сталкиваются друг с другом – и именно от вас зависит спасение человечества! Собирайте самых сильных супергероев и суперзлодеев, объединяйте их в команду и защищайте вселенную любой ценой!</description>
+
+    </product>
+
+    <product id="8">
+        <title>Осада</title>
+        <icon>https://lh3.googleusercontent.com/A9XgXkds9SirEM0D1RA5zCEePXtC2re5xZvXGWPKjo0SU3BgcBoWcxe2dBl4gt5RZg=w300-rw</icon>
+        <screenshots>
+            <image>https://lh3.googleusercontent.com/csgZnuMbn9v30dVlV5zxHXZUlwVFTnJrf7IERgHAYUcx449Ml_kfY2Q1_oMhgLjGaw=h900-rw</image>
+            <image>https://lh3.googleusercontent.com/nxuI1TT3XlJi7UkWZVrevATQIPeTUlnjW-rHXboDbBPYWXbA2DNC_M1tMg5RpniJb1A=h900-rw</image>
+            <image>https://lh3.googleusercontent.com/VAT8wFJfxdwqrA-_AQSWRXjfLODxRvBqUKoAfMy7nbbj7qSEj1aIzLcv4Fkw8oyUKxM=h900-rw</image>
+            <image>https://lh3.googleusercontent.com/Z8ce2lokC0M8h8FBuonIbCUpzFOUmNrDeZ0OcSAcMlX4lDh0AMgV21BPzYrhNlr8rcQ=h900-rw</image>
+        </screenshots>
+        <short_description>Уничтожь крепостные ворота и сравняй с землей все, что находится за ними! У тебя есть великолепная возможность открыть в себе способности созидателя, стратега и разрушителя!</short_description>
+        <description>ВОЗЬМИ В ОСАДУ ВРАЖЕСКУЮ КРЕПОСТЬ
+            ● Собери самую необычную армию, состоящую из коварных разбойников, ужасающих троллей и благородных рыцарей.
+            ● Тщательно продумай расстановку солдат, а разумное управление действиями Героя поможет воспользоваться слабостями врага во время боя.
+            ● Овладей магическими картами, которые усилят твои позиции: замораживай врагов, бросай разрушительные камни или призови на помощь драконов! В твоем распоряжении будет множество разнообразных карт.
+            РАЗВИВАЙ СВОЕ КОРОЛЕВСТВО
+            ● Война - дорогое удовольствие! Строй рудники, мельницы, фермы и прочие доходные предприятия для экономического развития королевства.
+            ● Оборонительные башни, бомбы, ловушки, баррикады и стены будут защищать твое королевство от нападения кровожадных врагов.
+            ● Сражайся с игроками со всего мира и захвати их замки с целью получения наживы.</description>
+
+    </product>
+</product_list>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OperaTestProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Descr_hint">DESCRIPTION HINT</string>
+    <string name="title_hint">HINT TITLE</string>
+</resources>
